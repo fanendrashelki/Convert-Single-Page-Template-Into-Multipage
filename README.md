@@ -22,22 +22,22 @@
 
 ![screencapture-file-H-felix-its-task-convert-single-page-template-into-multipage-portfolio-html-2022-01-17-21_40_00](https://user-images.githubusercontent.com/58651025/149807930-d68200ed-8f7e-44b7-bf9d-cffffdc0cad2.png)
 
-
+<h2>pricing</h2>
 
 ![screencapture-file-H-felix-its-task-convert-single-page-template-into-multipage-pricing-html-2022-01-17-21_40_10](https://user-images.githubusercontent.com/58651025/149807947-1f19ab1f-a7a2-4cfa-a2d4-4aada6785edd.png)
 
-
+<h2>Team</h2>
 
 ![screencapture-file-H-felix-its-task-convert-single-page-template-into-multipage-team-html-2022-01-17-21_40_25](https://user-images.githubusercontent.com/58651025/149807972-10f855f6-82d7-48a8-9118-86848b913f7f.png)
 
 
-
+<h2>Blog</h2>
 
 ![screencapture-file-H-felix-its-task-convert-single-page-template-into-multipage-Blog-html-2022-01-17-21_40_39](https://user-images.githubusercontent.com/58651025/149807988-4c4dc101-14ba-42dc-8bc2-c268ec6cf420.png)
 
 
 
-
+<h2>contact</h2>
 
 ![screencapture-file-H-felix-its-task-convert-single-page-template-into-multipage-contact-html-2022-01-17-21_40_50](https://user-images.githubusercontent.com/58651025/149808047-81cb3f66-8074-4c5a-9a15-0a7251d98c1e.png)
 
